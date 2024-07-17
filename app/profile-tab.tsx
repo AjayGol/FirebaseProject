@@ -157,7 +157,7 @@ export default function ProfileTab() {
         </View>
       </View>
 
-      <View style={{ flexDirection: "row" }}>
+      <View style={{ flexDirection: "row", marginBottom: 70 }}>
         <TouchableOpacity style={postMessageButton} onPress={handlePostMessage}>
           <LinearGradient
             colors={buttonGradient}
