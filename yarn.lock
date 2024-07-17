@@ -6529,6 +6529,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"expo-optimize@npm:^0.2.20":
+  version: 0.2.20
+  resolution: "expo-optimize@npm:0.2.20"
+  bin:
+    expo-optimize: build/index.js
+  checksum: db6d5d4a8cdaa1e6a776d6a095b64bcf7677026045390f7e1dff7dcd412b09a047e7a8882c6239c18dc3eb78d8eda39c5ad4bce6c1586c6a5ed357499f86d380
+  languageName: node
+  linkType: hard
+
 "expo-router@npm:~3.5.11":
   version: 3.5.11
   resolution: "expo-router@npm:3.5.11"
@@ -6917,6 +6926,7 @@ __metadata:
     expo-image-picker: ^15.0.4
     expo-linear-gradient: ^13.0.2
     expo-linking: ~6.3.1
+    expo-optimize: ^0.2.20
     expo-router: ~3.5.11
     expo-splash-screen: ~0.27.4
     expo-sqlite: ~14.0.4
